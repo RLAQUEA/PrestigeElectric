@@ -1,0 +1,21 @@
+.employeePictures > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    float: left;
+    border-style: solid; 
+    border-width: 2px; 
+}
+
+.row > div{
+    padding: 3px;
+}
+/* .employeePictures > div > img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+} */
+
